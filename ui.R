@@ -30,8 +30,8 @@ shinyUI(fluidPage(
 		h5( "To disable the display of a map each time a city or a radius is changed, there is check box (render choice),initially unchecked.",
 		 "When the box is checked, the map is displayed, and it will be the case any time that a change is done until you uncheck the box again"),   
 		 img(src = "MapSample.JPG", height = 220, width = 350)),
-		 h5("If the application does not display the map, you can run it from R", "It requires package shiny"),
-		 h4("runGitHub( "JHU_DDPproject", "gharango")"),
+		 h5("If the application does not display the map, you can run it from R.", "It requires package shiny:"),
+		 h4("runGitHub( \"JHU_DDPproject\", \"gharango\")"),
 		 
 	fluidRow(
 	column(8,
