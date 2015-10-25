@@ -29,7 +29,7 @@ When your mouse hovers in the circle signaling the city location you will be abl
 
 The data used is an extract of from annual_all_2013.csv, from
 
-https://github.com/DataScienceSpecialization/courses/tree/master/09_DevelopingDataProducts/yhat"),
+https://github.com/DataScienceSpecialization/courses/tree/master/09_DevelopingDataProducts/yhat
 
 The average is computed with all the information about places inside the radius value.
 
