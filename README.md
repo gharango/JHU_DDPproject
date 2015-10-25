@@ -46,7 +46,11 @@ When the box is checked, the map is displayed, and it will be the case any time 
 - pollutant.csv (extract containing just data about ozone and PM 2.5)
 - www/MapSample.JPG (graphic showing the result of the google chart used via the googleVis package)
 
+# Running the application from R
 
+library(shiny)
+
+runGitHub( "JHU_DDPproject", "gharango") 
 
 
 
